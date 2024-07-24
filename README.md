@@ -13,3 +13,6 @@ The task is to classify images with respect to the above categories.
 
 # Methodology / Approach
 The dataset has a decent amount of similarity with the classic Imagenet dataset. So the choice of using a vision transformer model pretrained on the Imagenet dataset came quite naturally to me. The next challenge was to fine-tune the model and set the hyperparameters accordingly.
+
+# Dataset available
+https://www.kaggle.com/datasets/puneet6060/intel-image-classification
